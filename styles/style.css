@@ -1,5 +1,9 @@
 h1 {
+<<<<<<< HEAD
     color: green;
+=======
+    color: yellow;
+>>>>>>> 456304af30323be6c48c4b830c77734abc46dc3a
 }
 p {
     color:blue;
